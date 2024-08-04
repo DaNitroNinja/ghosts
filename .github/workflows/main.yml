@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 env:
-  INSTANCE: 'ghost_guide/Phasmophobia'
+  INSTANCE: 'Writerside/p'
   ARTIFACT: 'webHelpP2-all.zip'
   DOCKER_VERSION: '241.18775'
 
